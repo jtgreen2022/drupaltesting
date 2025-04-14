@@ -31,6 +31,9 @@ sites/*/private
 # Ignore DS Store
 .DS_Store
 
+# Ignore DBs
+*.sql
+
 # Ignore multi-site test environment.
 sites/simpletest
 
